@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/Tatyane-Goncalves/estudos_typescript#readme",
   "devDependencies": {
+    "@types/node": "^24.0.0",
     "typescript": "^5.8.3"
   }
 }
