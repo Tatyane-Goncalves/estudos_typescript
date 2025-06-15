@@ -8,7 +8,7 @@ function registrarEventos(evento: any) {
   }
 
   if (typeof evento === "object" && evento !== null) {
-    console.log(`Ojeto registrado: ${JSON.stringify(evento)}`)
+    console.log(`Objeto registrado: ${JSON.stringify(evento)}`)
   }
 
   if (typeof evento === "boolean" || typeof evento === "undefined") {

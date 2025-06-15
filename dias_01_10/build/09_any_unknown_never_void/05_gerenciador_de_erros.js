@@ -7,7 +7,7 @@ function registrarEventos(evento) {
         console.log(`Registro: ${evento}`);
     }
     if (typeof evento === "object" && evento !== null) {
-        console.log(`Ojeto registrado: ${JSON.stringify(evento)}`);
+        console.log(`Objeto registrado: ${JSON.stringify(evento)}`);
     }
     if (typeof evento === "boolean" || typeof evento === "undefined") {
         erroFatalNovo("Erro de evento inválido");
