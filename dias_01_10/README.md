@@ -21,33 +21,11 @@ dias_01_10/
 │       └── index.js
 │
 ├── 02_funcoes_tipadas 
-│   ├── 01_soma_de_dois_numeros/
-│   ├── 02_maioridade/
-│   ├── 03_saudacao_personalizada/
-│   ├── 04_criar_usuario/
-│   └── 05_validador_senha/
-│
 ├── 03_objetos_e_interfaces 
-│   ├── 01_sistema_aluno/
-│   ├── 02_lista_de_usuarios/
-│   ├── 03_interface_com_metodos/
-│   ├── 04_interface_dentro_de_interface/
-│   ├── 05_funcao_filtra_por_propriedade/
-│   ├── 06_interface_com_readonly/
-│   ├── 07_heranca_interface/
-│   └── 08_interface_generica/
-│
 ├── 04_arrays_e_tuplas
-│   ├── 01_fruteira_magica/
-│   ├── 02_posicao_favorita/
-│   ├── 03_lista_de_tarefas/
-│   ├── 04_filtrando_pares/
-│   ├── 05_cadastro_pet_com_tuplas/
-│   ├── 06_removendo_o_ultimo/
-│   ├── 07_contando_letras_grandes/
-│   ├── 08_estoque_produto/
-│   ├── 09_agrupando_tipo/
-│   └── 10_tuplas_com_verificacao/
+├── 05_enums_e_union_types/
+├── 06_type_aliases_e_literais/
+├── 07_type_narrowing_e_guards/
 
 ```
 
